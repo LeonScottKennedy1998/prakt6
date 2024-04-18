@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\C\u002B\u002B\\balance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1ECCEDE-DB98-44B2-AF99-2AE50A3BE5EA}|balance\\balance.vcxproj|D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\C\u002B\u002B\\balance\\balance\\balance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1ECCEDE-DB98-44B2-AF99-2AE50A3BE5EA}|balance\\balance.vcxproj|solutionrelative:balance\\balance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "balance.cpp",
+              "DocumentMoniker": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\C\u002B\u002B\\balance\\balance\\balance.cpp",
+              "RelativeDocumentMoniker": "balance\\balance.cpp",
+              "ToolTip": "D:\\\u0421 \u043C\u043E\u0435\u0433\u043E \u043A\u043E\u043C\u043F\u0430\\Project MPT\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B Visual Studio\\C\u002B\u002B\\balance\\balance\\balance.cpp",
+              "RelativeToolTip": "balance\\balance.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-13T06:19:14.813Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
